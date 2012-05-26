@@ -1,0 +1,3 @@
+name: CrossServerChat
+main: me.crosant.crossserverchat.CrossServerChat
+version: 0.0.1
